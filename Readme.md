@@ -1,3 +1,6 @@
  # Github
 
-Arquivo da aula de git e github.
+Arquivo da aula de git e github.i
+
+Saiba mais em...
+
